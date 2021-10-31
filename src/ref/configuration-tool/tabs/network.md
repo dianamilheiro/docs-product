@@ -4,7 +4,7 @@ summary: The Network tab allows you to clear the current internal network settin
 
 # Network Tab
 
-The **Network** taballows you to clear the current internal network settings, and allows you to define the IP address the front-end server registers in the deployment controller service.
+The **Network** tab allows you to clear the current internal network settings, and allows you to define the IP address the front-end server registers in the deployment controller service.
 
 ## Internal Network section
 
